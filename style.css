@@ -1,0 +1,12 @@
+
+div{
+	width: 1300px;
+	height: 820px;
+	margin: 50px auto;
+	background-color: green;
+	background: url('R.jpg') repeat-x;
+    background-repeat: no-repeat;
+	background-size: cover;
+	background-position: right
+}
+
